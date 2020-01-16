@@ -9,7 +9,7 @@
       <p><b>Research Interests： Label enhancement/ Label distribution learning / Multiview learning</b></p>
     </td>
     <td width="25%">
-      <img src="/fw.JPG" width="100%">     
+      <img src="/fangwen.JPG" width="100%">     
     </td>
   </tr>
 </table>
